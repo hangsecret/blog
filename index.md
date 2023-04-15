@@ -3,7 +3,7 @@
 layout: home
 
 hero:
-  name: "BeingThink"
+  name: "Being"
   text: "Self Blog"
   tagline: My great project tagline
   actions:
