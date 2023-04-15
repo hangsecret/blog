@@ -9,7 +9,7 @@
     "docs:build": "vitepress build",
     "docs:preview": "vitepress preview"
   },
-  "author": "",
+  "author": "wyh",
   "license": "ISC",
   "dependencies": {
     "vitepress": "^1.0.0-alpha.65"
